@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.65d3be08.css",
+    "main.js": "/static/js/main.18191469.js",
+    "static/js/453.26607469.chunk.js": "/static/js/453.26607469.chunk.js",
+    "static/media/count.png": "/static/media/count.9acc874dbe224490d880.png",
+    "static/media/hamster.jpg": "/static/media/hamster.02970e268c106040bd60.jpg",
+    "index.html": "/index.html",
+    "main.65d3be08.css.map": "/static/css/main.65d3be08.css.map",
+    "main.18191469.js.map": "/static/js/main.18191469.js.map",
+    "453.26607469.chunk.js.map": "/static/js/453.26607469.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65d3be08.css",
+    "static/js/main.18191469.js"
+  ]
+}
