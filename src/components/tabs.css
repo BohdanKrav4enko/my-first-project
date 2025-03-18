@@ -1,0 +1,11 @@
+shopTabsContainer{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    flex-wrap: wrap;
+    color: black;
+    margin-bottom: 100px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
